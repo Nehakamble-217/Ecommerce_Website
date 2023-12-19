@@ -1,0 +1,17 @@
+.sec{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    background:linear-gradient(rgb(212, 107, 107),rgb(219, 219, 69));
+}
+
+
+Carousel{
+    height: 60vh;
+    width: 80%;
+    background: black;
+}

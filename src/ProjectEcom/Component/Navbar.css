@@ -1,0 +1,29 @@
+
+.navbar{
+    height: 100px;
+    width: 100%;
+    background: black;
+}
+.navart{
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ input{
+    padding: 8px;
+    text-align: center;
+} 
+
+.artbtn{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+    border-radius: 50px;
+    
+}
